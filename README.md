@@ -1,6 +1,6 @@
 # Puget Sound PIT Clinic
 
-[![Build and Deploy](https://github.com/PugetSoundClinic-PIT/PugetSoundClinic-PIT.github.io/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/PugetSoundClinic-PIT/PugetSoundClinic-PIT.github.io/actions/workflows/build-and-deploy.yml)
+[![CI](https://github.com/PugetSoundClinic-PIT/PugetSoundClinic-PIT.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/PugetSoundClinic-PIT/PugetSoundClinic-PIT.github.io/actions/workflows/ci.yml)
 
 The website for the Puget Sound Public Interest Technology (PIT) Clinic
 
@@ -13,8 +13,8 @@ The website for the Puget Sound Public Interest Technology (PIT) Clinic
 ### Content Locations
 
 * Landing: [./src/index.njk](./src/index.njk)
-* About: [./src/about.njk](./src/about.njk)
-* Work With Us: [./src/work-with-us.njk](./src/work-with-us.njk)
+* About: [./src/about.md](./src/about.md)
+* Work With Us: [./src/work-with-us.md](./src/work-with-us.md)
 * Updates (Main): [./src/updates.njk](./src/updates.njk)
 * Updates (Sidebar): [./src/_includes/snippets/blogsidebar.njk](./src/_includes/snippets/blogsidebar.njk)
 * Updates (Individual Posts): [./src/posts/](./src/posts)
