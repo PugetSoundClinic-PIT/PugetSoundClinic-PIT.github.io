@@ -26,4 +26,4 @@ jobs:
         if: startsWith(github.ref, 'refs/heads/main')
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: docs/_build/
+          folder: public
