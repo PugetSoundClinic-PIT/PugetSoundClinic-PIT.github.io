@@ -10,3 +10,9 @@ Our mission is to cooperatively build just and fair technologies that serve the 
 ## Vision
 
 A growing coalition of technologists, educators, researchers, and community organizations cooperatively advancing the public interest to face the escalating crises of postmodernity.
+
+---
+
+# People
+
+
