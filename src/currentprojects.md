@@ -1,9 +1,8 @@
 ---
 layout: layouts/primary-page.njk
-title: 
-lead: Our current projects
----
-
+title: Our current projects
+lead: 
+--- 
 
 #### CDP: Speaker Behaviors and Group Dynamics
 Using the data made available from the Council Data Project we are currently researching municipal council discussion. Who speaks (Men, Women, Republican, Democrat, etc.)? How often? During which topics (housing, budgeting, etc.)? Under which council configurations and more (full council, subcommittee, etc.)? We additionally plan on looking into training a classifier to identify different types of interjections based off of audio and transcript data. Using interjection data can we extend Justice, Interrupted to the municipal level? Our dataset currently includes speaker-annotated, timestamped-sentences, transcripts of over 2300 meetings from across the US.
